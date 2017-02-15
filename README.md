@@ -10,6 +10,7 @@ There are 5 files in this solution:
   - initial_states.txt: input file for solving multiple 8-puzzle initial states
   - solution.txt: output file for solutions of input from initial_states.txt
 
+[GitHub repository](https://github.com/jhonatanoliveira/cs820-strips-8-puzzle)
 
 
 How it Works
@@ -72,8 +73,8 @@ $ python run.py --help
 
 AUTHOR
 ---------
-Jhonatan S. Oliveira
-oliveira@uregina.ca
-Department of Computer Science
-University of Regina
+Jhonatan S. Oliveira,
+oliveira@uregina.ca,
+Department of Computer Science,
+University of Regina,
 Canada
