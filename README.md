@@ -23,9 +23,11 @@ There are 3 run mode for this program
     - User input multiple initial states by calling run.py with a file name in "-f" argument
 Notice that all state input is *comma separated* and with numbers filling the board from *top* to *down* and from *left* to *right* and *number zero* representing the clear block.
 For example, an initial state 1,2,3,0,6,4,8,7,5 represents the following board configuration:
-1 2 3
-X 6 4
-8 7 5
+
+| 1 | 2 | 3 |
+|   | 6 | 4 |
+| 8 | 7 | 5 |
+
 where the X is the clear block.
 
 
